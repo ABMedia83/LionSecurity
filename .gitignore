@@ -1,5 +1,6 @@
 style.css.map
 style.scss
 package.json
+package-lock.json
 /styles/*
 /node_modules/*
